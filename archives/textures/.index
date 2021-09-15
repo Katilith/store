@@ -1,0 +1,598 @@
+{
+    "index": 9,
+    "crc32": -914110699,
+    "sha256": "0e7a0999681c23548e91c5656dfcea6f1af5ebb72874b360302b03a75c52b0c7",
+    "groups": {
+        "dataType": "Map",
+        "value": [
+            [
+                "0",
+                {
+                    "name": "0",
+                    "size": 833,
+                    "crc32": -1336616812,
+                    "sha256": "dff1592cf38717de8df6b4bf132256e756090d5f8e52cbb36bf476435a7da544",
+                    "version": 4,
+                    "stripeCount": 1,
+                    "files": {
+                        "dataType": "Map",
+                        "value": [
+                            [
+                                "0",
+                                {
+                                    "name": "0",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "346b6bca2e6afaf9ef1fb7678b82d82674e38b17a2dd12e52228e19b66e994e2"
+                                }
+                            ],
+                            [
+                                "1",
+                                {
+                                    "name": "1",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "0648a16a02391a183a510e81f6f949103cb4d17a497d5e64739d7e9142c79f2c"
+                                }
+                            ],
+                            [
+                                "2",
+                                {
+                                    "name": "2",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "b3392eefd3310437ed18b5e008fa85ae2b261396642b049b19b366edbdc64cfc"
+                                }
+                            ],
+                            [
+                                "3",
+                                {
+                                    "name": "3",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "2f3036848c6ccd337a011493acb82940e6a036e713af6ee3d8bd2149b417feff"
+                                }
+                            ],
+                            [
+                                "4",
+                                {
+                                    "name": "4",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "d6c03177f1083b50d5b51663281bd10e24b963ae257c2b8497f574cbb450af68"
+                                }
+                            ],
+                            [
+                                "5",
+                                {
+                                    "name": "5",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "75f873e25f67059416a15ba10e2a81385766348420d7a425c1953b8518db75a2"
+                                }
+                            ],
+                            [
+                                "6",
+                                {
+                                    "name": "6",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "4da8c4aa55f9e21ca0b60d0d8e7c5b11db6d1c0a3e1514ad0ce3b539a6c917a7"
+                                }
+                            ],
+                            [
+                                "7",
+                                {
+                                    "name": "7",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "04855842791140b0a68a1d7a24afef938753be14dba1ded2bbe7ec0867447bb0"
+                                }
+                            ],
+                            [
+                                "8",
+                                {
+                                    "name": "8",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "067118a648fc2727e4086d93a7b1b57396e5a2224ca09dbee0c95118de5b1288"
+                                }
+                            ],
+                            [
+                                "9",
+                                {
+                                    "name": "9",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "cb1407757614bf20cf09d959820f6ac7d1714d2a3c85e1015268f50f1c01b70b"
+                                }
+                            ],
+                            [
+                                "10",
+                                {
+                                    "name": "10",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "afd2266a88a2bb62492790b8210ad165d33bd65abccdf19b7a0d9da3db150480"
+                                }
+                            ],
+                            [
+                                "11",
+                                {
+                                    "name": "11",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "4e00cab606aecff27c4f248a64cff9748f44713ddb7916e5eaba8fff42df863a"
+                                }
+                            ],
+                            [
+                                "12",
+                                {
+                                    "name": "12",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "96e46d0d530ded3a59ec1321ad9e7d89baf0dcdc73d1056037c48fb8f895921d"
+                                }
+                            ],
+                            [
+                                "13",
+                                {
+                                    "name": "13",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "f228fb4eb21a807345cf24ffd6b6a2f094c7cf3f27d5f0609c4b4fcfc3ee535a"
+                                }
+                            ],
+                            [
+                                "14",
+                                {
+                                    "name": "14",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "f185fefdee5cfe4d50d563ff4393622a9d7aeeb91be0fa25d9027ad708d25532"
+                                }
+                            ],
+                            [
+                                "15",
+                                {
+                                    "name": "15",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "db38f523b585621e2432bb56f1e175bc36ef22446f3445cfb6e9018530d93a69"
+                                }
+                            ],
+                            [
+                                "16",
+                                {
+                                    "name": "16",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "120330e1ed41850166d52cc20c87ab62e8d5ddb52ccf23ba393ab8e3a9ef8aa4"
+                                }
+                            ],
+                            [
+                                "17",
+                                {
+                                    "name": "17",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "9028f4ddde44bd762b03be90c6331e4933ce4dfc5366c34efed797384d536636"
+                                }
+                            ],
+                            [
+                                "18",
+                                {
+                                    "name": "18",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "d42613f239aaf2a8c788bf422d06c64bcb52585826b33c17ef811ffff166b6bf"
+                                }
+                            ],
+                            [
+                                "19",
+                                {
+                                    "name": "19",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "77772893edb0c5fce0cf85753f7c6358b50c0eb4c39f345afbc4cd842b39fb1b"
+                                }
+                            ],
+                            [
+                                "20",
+                                {
+                                    "name": "20",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "ffd01dac2199da567040aced792dc40cfe107184ff6e7ad03f35106522d38229"
+                                }
+                            ],
+                            [
+                                "21",
+                                {
+                                    "name": "21",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "5af7df7984ed64eb7885187d8a0ae0882bdc3a3c597111572856de84b4d1b390"
+                                }
+                            ],
+                            [
+                                "22",
+                                {
+                                    "name": "22",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "f3b64abf3e24845ded48ba84a79915c3b2c49f5ed6f4f530343e12a5e246b306"
+                                }
+                            ],
+                            [
+                                "23",
+                                {
+                                    "name": "23",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "982abd504474bc18376828fb3280ea4a094b14d80b1fd9ad3d85251b93a356e5"
+                                }
+                            ],
+                            [
+                                "24",
+                                {
+                                    "name": "24",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "110ce7883916f0f8c1867f0951096731e2920edaf329d473cd1b2bcd43a6cefd"
+                                }
+                            ],
+                            [
+                                "25",
+                                {
+                                    "name": "25",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "3bb9c143047dff77967ccce1dc8e665531f16982f4203cec85c06fa89c1575b0"
+                                }
+                            ],
+                            [
+                                "26",
+                                {
+                                    "name": "26",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "2b161c45d573a2e032a3b4083bf96c5fd35651dd5f7d5b114bbbf34a773c9555"
+                                }
+                            ],
+                            [
+                                "27",
+                                {
+                                    "name": "27",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "64d0af8348354b30dc56c92c049d0d00960f2c201463bf2c41c17c1ef398d9c4"
+                                }
+                            ],
+                            [
+                                "28",
+                                {
+                                    "name": "28",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "424f86ab2fe43649b61bcdf84cbd31c66f8fa9d3d748ba8609b0b41e8d2664fa"
+                                }
+                            ],
+                            [
+                                "29",
+                                {
+                                    "name": "29",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "18e393eca4a9fa237244fb77edd71012de7a33ca5bbd663a1d811f07f3515151"
+                                }
+                            ],
+                            [
+                                "30",
+                                {
+                                    "name": "30",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "20ec9dec6519b1ec3abe4975d6a78b96f0594fce59b3bccbb005dfe849323103"
+                                }
+                            ],
+                            [
+                                "31",
+                                {
+                                    "name": "31",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "15d61636f1c8ce1cee76300d66644e87df1bf17a2e0cdd70d5b2f0d70f699560"
+                                }
+                            ],
+                            [
+                                "32",
+                                {
+                                    "name": "32",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "f1016ac497291e2eed1712b83a40ac5d39eacce37fcb0ab96576047693147013"
+                                }
+                            ],
+                            [
+                                "33",
+                                {
+                                    "name": "33",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "df537d050b2317c2dd183093ffa64ec08fc8c9625a9f9db32b1f779a22b5c232"
+                                }
+                            ],
+                            [
+                                "34",
+                                {
+                                    "name": "34",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "05663d7c883ac9ac1e4e42c5182e653cad257233261b9c3fae46cd7a18916453"
+                                }
+                            ],
+                            [
+                                "35",
+                                {
+                                    "name": "35",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "b885dc16cd34f5b50cda984a02e3b7f23c4925944491ff42f23f13bdc58a7627"
+                                }
+                            ],
+                            [
+                                "36",
+                                {
+                                    "name": "36",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "5fd96f5ab1156ddc2b0f47ecbb560298bfef3368702a15d376a606b5d76ff958"
+                                }
+                            ],
+                            [
+                                "37",
+                                {
+                                    "name": "37",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "bdd072db2aecffd3aee44d4cf18ccab579f1dcc4a094f07cd4a984459ae391f2"
+                                }
+                            ],
+                            [
+                                "38",
+                                {
+                                    "name": "38",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "1b62a21112e3fc6d7fff7cd404b75f5fc5e011059c35a3dab7f106496aacb236"
+                                }
+                            ],
+                            [
+                                "39",
+                                {
+                                    "name": "39",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "8d468640eb6ed2f0aa1911efd3bbbc85d1f0a49ff0640bdfeab922ce121e1325"
+                                }
+                            ],
+                            [
+                                "40",
+                                {
+                                    "name": "40",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "23ba3bd6868aede1e37022eb6e7861ebb5c26d8dcaeb29bb7d126d3f7ab04507"
+                                }
+                            ],
+                            [
+                                "41",
+                                {
+                                    "name": "41",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "fc61eb64b226816a2caab1b46357aef3311e9306ed5bc2bfb5525eb5456d520d"
+                                }
+                            ],
+                            [
+                                "42",
+                                {
+                                    "name": "42",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "7d9e81de645bdf6e9700cc93c58a5d46d887c59a8ecc08e931d68a676d47e6bf"
+                                }
+                            ],
+                            [
+                                "43",
+                                {
+                                    "name": "43",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "6fbfb71555a58ded6585814d36ea2c5f502ef0f6211c488f4b5683ed9940161d"
+                                }
+                            ],
+                            [
+                                "44",
+                                {
+                                    "name": "44",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "f4bd0d83934ed94ab7c5db7ec2c29d33392c36acd8cdb0d85b10e438f41106c3"
+                                }
+                            ],
+                            [
+                                "45",
+                                {
+                                    "name": "45",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "13923a801a8244d8e36c26c990f0ab5525ec0b7592d82ef4c20653c251da7910"
+                                }
+                            ],
+                            [
+                                "46",
+                                {
+                                    "name": "46",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "3c2401e2b36b618ec4d7897509cacc0cfa5d12d1e813cf43c8a9c574048b96e3"
+                                }
+                            ],
+                            [
+                                "47",
+                                {
+                                    "name": "47",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "c8b86c854a433f5805c288b7c18d0d2434057a7c61e4daee4ed7bd0e993356e3"
+                                }
+                            ],
+                            [
+                                "48",
+                                {
+                                    "name": "48",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "9ef6d2f7895854176d3ddadf151658f4cc43ddd3103b98a166c482ec02175c07"
+                                }
+                            ],
+                            [
+                                "49",
+                                {
+                                    "name": "49",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "62c5cf5ec7a4b21d47cbcfe14f36ef25846e13b1476493fc91fc11cd8ec517ce"
+                                }
+                            ],
+                            [
+                                "50",
+                                {
+                                    "name": "50",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "7b838982302157380c9ee4c8c17a6ec003a8888a9f998069c19bb500bf42ad98"
+                                }
+                            ],
+                            [
+                                "51",
+                                {
+                                    "name": "51",
+                                    "stripeSizes": [
+                                        12
+                                    ],
+                                    "size": 12,
+                                    "sha256": "6aca88f9dc5d6d15669b34bbe56d7b15f06a3d7f023fccab10133495b53c3370"
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+}

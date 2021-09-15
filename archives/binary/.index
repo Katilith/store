@@ -1,0 +1,60 @@
+{
+    "index": 10,
+    "crc32": -654925461,
+    "sha256": "c828ce657c935438e44585fe8be1b5d9a269828821452cec1ebf6af857a3c40c",
+    "groups": {
+        "dataType": "Map",
+        "value": [
+            [
+                "0",
+                {
+                    "name": "title.jpg",
+                    "nameHash": -2136884405,
+                    "size": 17573,
+                    "crc32": 1687115051,
+                    "sha256": "4b7ea37525b72ebab33dd6613e96f484195ab3cad5b45d27a596ea4569076aea",
+                    "version": 3,
+                    "files": {
+                        "dataType": "Map",
+                        "value": [
+                            [
+                                "0",
+                                {
+                                    "name": "title.jpg",
+                                    "nameHash": -2136884405,
+                                    "size": 17573,
+                                    "sha256": "4b7ea37525b72ebab33dd6613e96f484195ab3cad5b45d27a596ea4569076aea"
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ],
+            [
+                "1",
+                {
+                    "name": "huffman",
+                    "nameHash": 1258058669,
+                    "size": 256,
+                    "crc32": 2014412366,
+                    "sha256": "779460467727aac19739d70d6b21afa911f01e1a66f7d826a2f0b79836111620",
+                    "version": 1,
+                    "files": {
+                        "dataType": "Map",
+                        "value": [
+                            [
+                                "0",
+                                {
+                                    "name": "huffman",
+                                    "nameHash": 1258058669,
+                                    "size": 256,
+                                    "sha256": "779460467727aac19739d70d6b21afa911f01e1a66f7d826a2f0b79836111620"
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+}

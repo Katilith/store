@@ -1,0 +1,35 @@
+{
+    "index": 12,
+    "crc32": 704857582,
+    "sha256": "6cbf64a16ffc256fb4c2a1f463d927cf1782420fce2bf6bfe8b6be2bc99bb27d",
+    "groups": {
+        "dataType": "Map",
+        "value": [
+            [
+                "0",
+                {
+                    "name": "1691811",
+                    "nameHash": 1691811,
+                    "size": 29,
+                    "crc32": 1077484,
+                    "sha256": "b0e553ddb9bdfbae575b85e41563f617ae29c9a450e44b9b145a12f36b378c61",
+                    "version": 1,
+                    "files": {
+                        "dataType": "Map",
+                        "value": [
+                            [
+                                "0",
+                                {
+                                    "name": "1691811",
+                                    "nameHash": 1691811,
+                                    "size": 29,
+                                    "sha256": "b0e553ddb9bdfbae575b85e41563f617ae29c9a450e44b9b145a12f36b378c61"
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+}
