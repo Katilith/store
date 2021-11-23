@@ -1,2 +1,7 @@
 /output/
-/js5/
+/js5/*.dat0
+/js5/*.dat1
+/js5/*.dat2
+/js5/*.idx*
+/temp/
+.idea

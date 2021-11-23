@@ -103,4 +103,20 @@
         fileExtension: '.cs2',
         saveFileNames: true
     },
+    /*fontmetrics: {
+        index: 13,
+        compression: 'gzip',
+        versioned: false,
+        saveFileNames: true
+    },
+    vorbis: {
+        index: 14,
+        compression: 'gzip',
+        versioned: true
+    },
+    midi_instruments: {
+        index: 15,
+        compression: 'gzip',
+        versioned: false
+    }*/
 }
